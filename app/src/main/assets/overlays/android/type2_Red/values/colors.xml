@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="accent_device_default_light">#ffB71C1C</color>
+
+    <color name="ripple_material_light">#40F44336</color>
+    <!-- colore del tocco -->
+
+    <color name="primary_text_default_material_light">#ffB71C1C</color>
+    <!--#de000000 colore testo delle voci dei sotto menu setting-->
+    <color name="secondary_text_default_material_light">#ffF44336</color>
+    <!-- #8a000000 colore testo del menu settings-->
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <!-- #ffffffff  colore testo sulla ACTION BAR-->
+    <color name="secondary_text_default_material_dark">#bbffffff</color>
+    <!-- b3ffffff -->
+    <color name="material_deep_teal_200">#ffB71C1C</color>
+    <!--#ff80cbc4-->
+    <color name="material_deep_teal_500">#ffB71C1C</color>
+    <!--#ff009688-->
+    <color name="material_blue_grey_800">#ffB71C1C</color>
+    <!--#ff37474f -->
+    <color name="material_blue_grey_900">#ffB71C1C</color>
+    <!-- colore Action BAR #ff263238 -->
+    <color name="material_blue_grey_950">#ffB71C1C</color>
+    <!-- colore Status BAR #ff21272b -->
+    <color name="black">#ffB71C1C</color>
+
+    <color name="material_grey_600">#ffB71C1C</color>
+    <!-- installazione app status bar color -->
+    <color name="material_grey_900">#ffB71C1C</color>
+
+    <color name="datepicker_default_header_selector_background_material_dark">#ffff0000</color>
+    <color name="datepicker_default_view_animator_color_material_dark">#ff00ff00</color>
+    <color name="material_grey_850">#ffF44336</color> <!-- sfondo android action bar three dots -->
+
+    <color name="material_grey_300">#ffF44336
+    </color> <!-- background divider qs / menu notifiche -->
+
+    <color name="notification_default_color">#ffB71C1C</color>
+    <color name="system_notification_accent_color">#ffB71C1C</color>
+    <color name="secondary_text_material_light">#ffB71C1C</color>
+
+
+</resources>

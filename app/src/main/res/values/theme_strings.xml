@@ -1,0 +1,11 @@
+<resources>
+    <string name="ThemeName">AnotherBlueTheme</string>
+    <string name="ThemeAuthor">superdild</string>
+    <string-array name="ThemeChangelog">
+        <item>new template</item>
+        <item>Oreo Settings</item>
+        <item>Change Three</item>
+        <item>Change Four</item>
+        <item>Change Five</item>
+    </string-array>
+</resources>

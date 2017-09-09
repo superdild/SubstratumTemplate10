@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style name="Theme.DeviceDefault.Settings" parent="@*android:style/Theme.Material.Light">
+
+    <item name="@android:actionBarTheme">@*android:style/ThemeOverlay.DeviceDefault.Dark.ActionBar.Accent</item> <!-- Dark ActionBar -->
+    <item name="@android:colorPrimary">#ffB71C1C</item> <!-- colore action bar Settings -->
+    <item name="@android:colorPrimaryDark">#ffB71C1C</item> <!-- colore statusBar Settings #f5f5f5 -->
+    <item name="@android:colorAccent">#ffB71C1C</item>
+
+            <item name="@android:colorEdgeEffect">#ffF44336</item> <!-- colore ripple -->
+            <item name="@android:colorSecondary">#ffeeeeee</item> <!-- colore sottomenu settings -->
+
+</style>
+<!--
+    <style name="ThemeOverlay.DeviceDefault.ActionBar.Accent" parent="@*android:style/ThemeOverlay.Material.ActionBar">
+        <item name="@android:textColorPrimary">#ffeeeeee</item>
+    </style>
+-->
+    </resources>
