@@ -11,6 +11,7 @@
             <item name="@android:colorEdgeEffect">#ff336699</item> <!-- colore ripple -->
             <item name="@android:colorSecondary">#ffeeeeee</item> <!-- colore sottomenu settings -->
 
+
 </style>
 <!--
     <style name="ThemeOverlay.DeviceDefault.ActionBar.Accent" parent="@*android:style/ThemeOverlay.Material.ActionBar">
