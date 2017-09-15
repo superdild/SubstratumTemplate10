@@ -27,4 +27,11 @@
     <color name="quantum_deeporange300">#ff336699</color>
     <color name="quantum_googblue400">#ff336699</color>
 
+    <color name="design_snackbar_background_color">#ff336699</color>
+    <color name="dim_foreground_disabled_material_light">#80336699</color>
+    <color name="dim_foreground_material_light">#ff336699</color>
+    <color name="gray_81pc">#ff336699</color>
+    <color name="toastbar_background">#ff336699</color>
+    <color name="snack_bar_action_text_color">#ffffffff</color>
+
 </resources>
